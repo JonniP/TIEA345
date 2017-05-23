@@ -1,0 +1,2 @@
+tehtävä 1.1 done
+tehtävä 1.4 latasin raspbian imagen ja kirjoitin sen Win32 Disc Imagerilla muistikortille, done
