@@ -1,2 +1,6 @@
 tehtävä 1.1 done
+tehtävä 1.2 asetukset vaihdettu preferences > raspberry pi configuration, ja sudo apt-get update, sekä sudo apt-get dist-upgrade ajettu
+tehtävä 1.3 IP: 192.168.137.197, sudo raspi-config käskyllä valikkoon josta enabloin SSH-yhteyden
+, sitten katsoin ip:n ipcongifilla ja yhdistin tähän osoitteeseen
+ läppärin puttyllä, done
 tehtävä 1.4 latasin raspbian imagen ja kirjoitin sen Win32 Disc Imagerilla muistikortille, done
