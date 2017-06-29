@@ -6,4 +6,4 @@ skriptistä otettu kuva asentamalla python_picamera ja importtaamalla ja käytt�
 liiketunnistimella: liiketunnistimella otettu kuva; todisteet liiketunnistimen käytön osaamisesta demossa 2.
 tasatunnein otettu kuva: crontab -e komennolla, editoidaan uudelle riville 
 0 * * * * /pythonin/path /skriptin/path, skripti ottaa kuvan
-WebServeri tehty käyttäen apachea. PHP-skripti hakee uusimman kuvan. 
+WebServer tehty käyttäen apachea. Cron vie serverille uusimman otetun kuvan ja korvaa vanhan kuvan. 
