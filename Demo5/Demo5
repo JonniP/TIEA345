@@ -1,0 +1,5 @@
+5.1: pir, pir.c
+5.2: liikennevalot ilman liiketunnistinta: light, light.c
+
+Compile: gcc -g -o <name> <sourcename>
+Example: Gcc -g -o light light.c
