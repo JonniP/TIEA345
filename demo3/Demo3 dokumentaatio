@@ -4,6 +4,6 @@ json päätyi raspille seuraten autentikaatio-slidejen ohjeita ja tallentamalla 
 kuvan otto: slidejen kuvan ja videonotto -komennoilla, laatua muokattu -w  ja -h -parametreillä
 skriptistä otettu kuva asentamalla python_picamera ja importtaamalla ja käyttämällä sitä koodissa 
 liiketunnistimella: liiketunnistimella otettu kuva; todisteet liiketunnistimen käytön osaamisesta demossa 2.
-tasatunnein otettu kuva: crontam -e komennolla, editoidaan uudelle riville 
+tasatunnein otettu kuva: crontab -e komennolla, editoidaan uudelle riville 
 0 * * * * /pythonin/path /skriptin/path, skripti ottaa kuvan
 WebServeri tehty käyttäen apachea. PHP-skripti hakee uusimman kuvan. 
