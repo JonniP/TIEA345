@@ -1,9 +1,11 @@
 json client email: tempsensor@unique-antonym-172215.iam.gserviceaccount.com
 json päätyi raspille seuraten autentikaatio-slidejen ohjeita ja tallentamalla json tiedosto etäkoneelle josta sftp-protokollalla raspille. Sheets jaettu.
 
-kuvan otto: slidejen kuvan ja videonotto -komennoilla, laatua muokattu -w  ja -h -parametreillä
+kuvan otto: slidejen kuvan ja videonotto -komennoilla, laatua muokattu -w  ja -h -parametreillä, kuva: Gurus.jpg, video: 15secVideo.h264
+
 skriptistä otettu kuva asentamalla python_picamera ja importtaamalla ja käyttämällä sitä koodissa 
-liiketunnistimella: liiketunnistimella otettu kuva; todisteet liiketunnistimen käytön osaamisesta demossa 2.
+liiketunnistimella: liiketunnistimella otettu kuva; todisteet liiketunnistimen käytön osaamisesta demossa 2. Kuva: MotionCaptured.jpg
+
 tasatunnein otettu kuva: crontab -e komennolla, editoidaan uudelle riville 
-0 * * * * /pythonin/path /skriptin/path, skripti ottaa kuvan
+0 * * * * /pythonin/path /skriptin/path, skripti ottaa kuvan. Kuva: cronPicture.jpg
 WebServer tehty käyttäen apachea. Cron vie serverille uusimman otetun kuvan ja korvaa vanhan kuvan. 
