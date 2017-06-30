@@ -16,10 +16,10 @@ DHT_TYPE = Adafruit_DHT.DHT11
 DHT_PIN  = 21
 
 
-GDOCS_OAUTH_JSON       = 'MyTestProject-9c2cace3302e.json'
+GDOCS_OAUTH_JSON       = 'Temperature Sensor Readings-f35067ee18d3.json'
 
 
-GDOCS_SPREADSHEET_NAME = 'VKoskivdata'
+GDOCS_SPREADSHEET_NAME = 'Temperature Sensor Readings'
 
 # How long to wait (in seconds) between measurements.
 FREQUENCY_SECONDS      = 5
